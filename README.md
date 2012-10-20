@@ -4,7 +4,7 @@ Compass Auto-Build-System for Sublime Text 2
 What is it?
 --------
 
-This might come handy if you are working with [Sublime Text 2](http://www.sublimetext.com/ "sublimetext.com") and [Compass](http://http://compass-style.org/ "compass-style.org"). It automatically compiles your SASS or SCSS files every time you save them. There's no need to have Compass watch running on a command line while you're working on a SASS project anymore.
+This might come handy if you are working with [Sublime Text 2](http://www.sublimetext.com/ "sublimetext.com") and [Compass](http://compass-style.org/ "compass-style.org"). It automatically compiles your SASS or SCSS files every time you save them. There's no need to have Compass watch running on a command line while you're working on a SASS project anymore.
 
 How does it work?
 --------
